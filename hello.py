@@ -1,0 +1,1 @@
+print('When hardwork option, success is the only result!!!')
